@@ -29,6 +29,13 @@ Finally, there’s a heatmap for wins against each team in the NBA. A dark blue 
 
 ![heatmap](https://github.com/mkennedm/nba_2022_2023_season/assets/8769212/36196b89-5388-463d-abf1-6f6d268bc5f9)
 
+Watch a video of the published report here:
+
+
+https://github.com/mkennedm/nba_2022_2023_season/assets/8769212/b089c3d4-704f-4e6b-b731-54995fda3d9f
+
+
+
 
 # Data Collection
 This section covers only the tables that were not created within Power BI.
